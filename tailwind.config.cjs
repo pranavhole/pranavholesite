@@ -21,8 +21,8 @@ module.exports = {
         Arimo: ["Arimo", "sans-serif"],
       },
       colors: {
-        AAprimary: "#0b192f",
-        AAsecondary: "#64ffda",
+        AAprimary: "#000000",
+        AAsecondary: "#b5babd",
         AAError: "#ff6489",
         AAtertiary: "#112340",
         ResumeButtonHover: "#153040",

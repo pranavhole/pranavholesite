@@ -52,7 +52,7 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
         transition={{ y: { delay: props.finishedLoading ? 0 : 11, duration: props.finishedLoading ? 0 : 0.5 } }}
         className="z-10 fixed bottom-0 -right-10 hidden lg:flex flex-row items-center justify-between"
       >
-        <div className="flex flex-col space-y-24 justify-center items-center">
+        <div className="flex flex-col space-y-28 justify-center items-center">
           {/* Open Email on click */}
           <motion.div
             initial={{ rotate: 90 }}
@@ -62,9 +62,9 @@ export default function SocialMediaEmail(props: { finishedLoading: boolean }) {
             }}
             className=""
           >
-            <a href="mailto:abdellatif@anaflous.com" target={"_blank"} rel="noreferrer">
+            <a href="mailto:pranavhole050610@gmail.com" target={"_blank"} rel="noreferrer">
               <span className=" font-Header tracking-wider text-gray-400 hover:text-AAsecondary hover:cursor-pointer">
-                abdellatif<span className="text-AAsecondary">@</span>anaflous<span className="text-AAsecondary">.</span>com
+                pranavhole050610<span className="text-AAsecondary">@</span>gmail<span className="text-AAsecondary">.</span>com
               </span>
             </a>
           </motion.div>
