@@ -52,7 +52,7 @@ export default function MyName(props: { finishedLoading: boolean }) {
   }}
   className="text-gray-400 w-[70%] font-Header text-sm md:text-lg sm:text-md mt-10 tracking-wider"
 >
-  I'm a <span className="text-AAsecondary">software engineer</span> known for bringing ideas to life and crafting exceptional digital experiences. With a strong focus on the <span className="text-AAsecondary">web3 domain</span>, I specialize in developing immersive applications and working with <span className="text-AAsecondary">Smart Contracts</span> on the <span className="text-AAsecondary">Blockchain</span>. I also possess expertise in <span className="text-AAsecondary">DevOps</span> practices and <span className="text-AAsecondary">Cloud Technologies</span>, which enhances my capability to deliver scalable and efficient solutions.
+  I&apos;m a <span className="text-AAsecondary">software engineer</span> known for bringing ideas to life and crafting exceptional digital experiences. With a strong focus on the <span className="text-AAsecondary">web3 domain</span>, I specialize in developing immersive applications and working with <span className="text-AAsecondary">Smart Contracts</span> on the <span className="text-AAsecondary">Blockchain</span>. I also possess expertise in <span className="text-AAsecondary">DevOps</span> practices and <span className="text-AAsecondary">Cloud Technologies</span>, which enhances my capability to deliver scalable and efficient solutions.
 </motion.h3>
 
       <motion.div
